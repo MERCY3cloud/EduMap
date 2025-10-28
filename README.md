@@ -4,7 +4,7 @@
 
 ## Overview
 
-EduMap is an interactive educational platform for young learners in Kenya, designed to introduce cartography and map skills at an early age. Through playful lessons, drawing activities, quizzes, and interactive maps, children develop spatial thinking, understand maps, and explore their world—all in a fun and engaging way.
+EduMap is an interactive educational platform for young learners in Kenya, designed to introduce cartography and map skills at an early age. Through playful lessons, drawing activities, quizzes, and interactive maps, children develop spatial thinking, understand maps, and explore their world all in a fun and engaging way.
 
 
 
